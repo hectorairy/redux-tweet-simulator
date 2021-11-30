@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About Project
+
+Twitter simulator, developed in React and using Redux. To check the app in production visit this link:
+
+https://redux-tweet-simulator.vercel.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
